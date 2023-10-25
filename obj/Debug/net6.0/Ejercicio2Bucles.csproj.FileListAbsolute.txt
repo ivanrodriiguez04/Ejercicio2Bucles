@@ -1,0 +1,14 @@
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\bin\Debug\net6.0\Ejercicio2Bucles.exe
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\bin\Debug\net6.0\Ejercicio2Bucles.deps.json
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\bin\Debug\net6.0\Ejercicio2Bucles.runtimeconfig.json
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\bin\Debug\net6.0\Ejercicio2Bucles.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\bin\Debug\net6.0\Ejercicio2Bucles.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\obj\Debug\net6.0\Ejercicio2Bucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\obj\Debug\net6.0\Ejercicio2Bucles.AssemblyInfoInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\obj\Debug\net6.0\Ejercicio2Bucles.AssemblyInfo.cs
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\obj\Debug\net6.0\Ejercicio2Bucles.csproj.CoreCompileInputs.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\obj\Debug\net6.0\Ejercicio2Bucles.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\obj\Debug\net6.0\refint\Ejercicio2Bucles.dll
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\obj\Debug\net6.0\Ejercicio2Bucles.pdb
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\obj\Debug\net6.0\Ejercicio2Bucles.genruntimeconfig.cache
+C:\Users\csi22-irodhan\Desktop\Programacion\Ejercicio2Bucles\obj\Debug\net6.0\ref\Ejercicio2Bucles.dll
